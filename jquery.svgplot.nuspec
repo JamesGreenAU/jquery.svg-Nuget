@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jquery.svgplot</id>
+    <title>SVG plotting extension</title>
+    <version>1.4.5</version>
+    <authors>Keith Wood</authors>
+    <owners>Keith Wood</owners>
+    <licenseUrl>https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt</licenseUrl>
+    <projectUrl>http://keith-wood.name/svg.html</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SVG plotting extension for jQuery</description>
+    <releaseNotes>28 Apr 2012.  Updated to work with jQuery 1.7</releaseNotes>
+    <dependencies>
+      <dependency id="jquery.svg" version="1.4.5" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="jquery.svgplot.js" target="Content\Scripts\jquery.svgplot.js" />
+    <file src="jquery.svgplot.min.js" target="Content\Scripts\jquery.svgplot.min.js" />
+    <file src="jquery.svgplot.pack.js" target="Content\Scripts\jquery.svgplot.pack.js" />
+  </files>
+</package>

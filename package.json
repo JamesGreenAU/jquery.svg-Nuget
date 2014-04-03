@@ -1,0 +1,21 @@
+{
+  "name": "jquery.svg",
+  "version": "1.4.5",
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "description": "SVG for jQuery",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/npm/npm.git"
+  },
+  "author": {
+    "name": "Keith Wood",
+    "url": "http://keith-wood.name/svg.html"
+  },
+  "contributors": [
+    {
+      "name": "James Green"
+    }
+  ]
+}

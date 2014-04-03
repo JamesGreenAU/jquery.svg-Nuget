@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jquery.svg</id>
+    <title>jQuery.SVG</title>
+    <version>1.4.5</version>
+    <authors>Keith Wood</authors>
+    <owners>Keith Wood</owners>
+    <licenseUrl>https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt</licenseUrl>
+    <projectUrl>http://keith-wood.name/svg.html</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A jQuery plugin that lets you interact with an SVG canvas.</description>
+    <releaseNotes>28 Apr 2012.  Updated to work with jQuery 1.7</releaseNotes>
+  </metadata>
+  <files>
+    <file src="jquery.svg.js" target="Content\Scripts\jquery.svg.js" />
+    <file src="jquery.svg.pack.js" target="Content\Scripts\jquery.svg.pack.js" />
+    <file src="jquery.svg.min.js" target="Content\Scripts\jquery.svg.min.js" />
+    <file src="jquery.svg.css" target="Content\css\jquery.svg.css" />
+  </files>
+</package>
